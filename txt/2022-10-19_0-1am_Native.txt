@@ -1,0 +1,97 @@
+Endpoint Response Code: 200
+{
+    "data": [
+        {
+            "author_id": "2798802795",
+            "conversation_id": "1582533904191598593",
+            "created_at": "2022-10-19T00:47:39.000Z",
+            "edit_history_tweet_ids": [
+                "1582533904191598593"
+            ],
+            "id": "1582533904191598593",
+            "in_reply_to_user_id": "771436243599040512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "The Tweeted Times",
+            "text": "@grownativemo: 'Ditch the rake and help native bees, snails and more when you LEAVE THE LEAVES! If left for nature, the marvel of plant chemistry that happens every fall when leaf abscission occurs and petioles detach f\u2026 https://t.co/Npp1UurS4h, see more https://t.co/S16A3B21Kv"
+        },
+        {
+            "author_id": "1210410098578903043",
+            "conversation_id": "1582530814062927872",
+            "created_at": "2022-10-19T00:35:22.000Z",
+            "edit_history_tweet_ids": [
+                "1582530814062927872"
+            ],
+            "id": "1582530814062927872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Cheap Bots, Done Quick!",
+            "text": "The social burrowing honey bee is native to Australia. It very colorful and eats small fish!"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "created_at": "2014-10-01T20:01:11.000Z",
+                "description": "best lawn mower , lawn mower review, best riding lawn mower",
+                "id": "2798802795",
+                "name": "bestlawnmower2018",
+                "public_metrics": {
+                    "followers_count": 188,
+                    "following_count": 1249,
+                    "listed_count": 0,
+                    "tweet_count": 3682
+                },
+                "username": "bestlawnmower18",
+                "verified": false
+            },
+            {
+                "created_at": "2016-09-01T19:55:07.000Z",
+                "description": "",
+                "id": "771436243599040512",
+                "name": "Grow Native",
+                "public_metrics": {
+                    "followers_count": 779,
+                    "following_count": 78,
+                    "listed_count": 17,
+                    "tweet_count": 757
+                },
+                "username": "grownativemo",
+                "verified": false
+            },
+            {
+                "created_at": "2019-12-27T04:00:37.000Z",
+                "description": "Beep boop, I am a bot! Follow me to hear about fantastical insects. If you have questions please contact @affablegiraffab",
+                "id": "1210410098578903043",
+                "name": "Bad bug facts bot",
+                "public_metrics": {
+                    "followers_count": 9,
+                    "following_count": 0,
+                    "listed_count": 1,
+                    "tweet_count": 7548
+                },
+                "username": "badbugfactsbot",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1582533904191598593",
+        "oldest_id": "1582530814062927872",
+        "result_count": 2
+    }
+}
+
+Process finished with exit code 0
